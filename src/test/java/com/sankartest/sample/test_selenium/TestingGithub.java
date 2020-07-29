@@ -4,7 +4,7 @@ package com.sankartest.sample.test_selenium;
 
 public class TestingGithub {
 
-	public static void main(Strings[] args) {
+	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 		int a = 23;
