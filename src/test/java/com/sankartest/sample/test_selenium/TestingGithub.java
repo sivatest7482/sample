@@ -1,10 +1,10 @@
 package com.sankartest.sample.test_selenium;
 
-import org.testng.annotations.Test;
+
 
 public abstract class TestingGithub {
-@Test
-	public static void test() {
+
+	public static void main(Strings[] args) {
 		// TODO Auto-generated method stub
 
 		int a = 23;
